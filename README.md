@@ -1,4 +1,8 @@
 # bee_detection
 数字处理综合实践课程代码
+
+
 bee_detection是第一版，最后实验报告中使用了其中图像质量分析结果
+
+
 懒得对两个版本的代码做整合了所以直接保留，最后实验是用的bee_detection_process
